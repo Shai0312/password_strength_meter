@@ -6,8 +6,8 @@ st.markdown("""
 <style>
     .main {text-align: center;}
     .stTextInput {width: 60% !important; margin: auto;}
-    .stButton button {width: 50%; background-color: blue; color: white; font-size: 18px;}
-    .stButton button:hover { background-color: red; color: white;}
+    .stButton button {width: 50%; background-color: #007BFF; color: white; font-size: 18px;}  /* Changed color to blue */
+    .stButton button:hover { background-color: #FF5733; color: white;}  /* Changed hover color to red */
 </style>
 """, unsafe_allow_html=True)
 
