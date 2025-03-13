@@ -7,7 +7,7 @@ st.markdown("""
     .main {text-align: center;}
     .stTextInput {width: 60% !important; margin: auto;}
     .stButton button {width: 50%; background-color: black; color: white; font-size: 18px;}  /* Changed color to blue */
-    .stButton button:hover { background-color: green; color: white;}  /* Changed hover color to red */
+    .stButton button:hover { background-color: #87CEEB; color: white;}  /* Changed hover color to red */
 </style>
 """, unsafe_allow_html=True)
 
